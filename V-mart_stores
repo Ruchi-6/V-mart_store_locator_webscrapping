@@ -1,0 +1,310 @@
+store_name,address,open_time,close_time,latitude,longitude,contact
+" V-Mart  Narsipatnam, Visakhapatnam"," Bank Colony, Main Road, Narsipatnam, Visakhapatnam, Andhra Pradesh, 531116",11:00 AM,10:00 PM,17.662204,82.620501,0971 7966 511 
+" V-Mart  Peda Madina, Visakhapatnam"," Door No 48/14/92/1 And 93, Gnt Road, Cmr Road, Rama Talkies Junction, Peda Madina, Visakhapatnam, Andhra Pradesh, 530013",11:00 AM,10:00 PM,17.737511,82.834711,0928 9062 315 
+" V-Mart  Rajahmundry, East Godavari"," Door No 79/1/1, Rs No 288/1, Jn Road, Mallina Nagar, Rajahmundry, East Godavari, Andhra Pradesh, 533103",11:00 AM,10:00 PM,16.972893,81.833365,0928 9062 312 
+" V-Mart  Eluru, West Godavari"," Plot No 453/1, 433/9A1 And 451, Pathebad Road, Block No 14, Ramachandra Rao Pet, Opposite Sweet Magic, Eluru, West Godavari, Andhra Pradesh, 534002",11:00 AM,10:00 PM,16.718211,81.119511,0928 9062 310 
+" V-Mart  Vijayawada, Krishna"," Shop No 40/1/44, Ground 1St And 2Nd Floor, Msr Plaza, Mg Road, Vijayawada, Krishna, Andhra Pradesh, 520010",11:00 AM,10:00 PM,16.515099,80.632095,0928 9062 311 
+" V-Mart  Kakinada, East Godavari"," Door No 21/1/1, Lgf To 2Nd Floor, Pydah Plaza, Solipeta, Opposite Appolo Hospital, Kakinada, East Godavari, Andhra Pradesh, 533001",11:00 AM,10:00 PM,16.948249,82.252896,0928 9062 309 
+" V-Mart  Brodipet, Guntur"," Door No 5/87/126, New Ward No 4, Lakshmipuram Main Road, Brodipet, Guntur, Andhra Pradesh, 522007",11:00 AM,10:00 PM,16.306711,80.436111,0928 9062 314 
+" V-Mart  Tenali, Guntur"," Sai Heights, Salipet, Revenue Ward No 10, Bose Road, Tenali, Guntur, Andhra Pradesh, 522201",11:00 AM,10:00 PM,16.23704,80.64972,0880 0304 829 
+" V-Mart  Aravinda Nagar, Kadapa"," Door No 39/615/2/3, 615/3 To 615/9, Syndicate No 871, China Chowk, Rtc Bus Stand, Opposite KFC, Aravinda Nagar, Kadapa, Andhra Pradesh, 516003",11:00 AM,10:00 PM,14.477511,78.823531,0856 2279 600 
+" V-Mart  Gomathi Nagar, Nellore"," Door No 26/1/1920, Plot No 1 And 2, 1St Floor, Syndicate No 669/2, Mini Bypass Road, Gomathi Nagar, Nellore, Andhra Pradesh, 524003",11:00 AM,10:00 PM,14.442599,79.986458,0928 9062 308 
+" V-Mart  Tirupati, Chittoor"," S No 227/1, Old S No 227, Ward No 19, Air Bypass Road, Tirupati, Chittoor, Andhra Pradesh, 517501",11:00 AM,10:00 PM,13.628756,79.419182,0928 9062 313 
+" V-Mart  Itanagar, Papum Pare"," Bagang Shopping Complex, R&G Near Akash Deep, Main Bazar Road, Near Sbi, Itanagar, Papum Pare, Arunachal Pradesh, 791111",10:00 AM,10:00 PM,27.089542,93.615606,0742 8495 285 
+" V-Mart  Bidyapara, Dhubri"," Ward No 9, Gtb Road, Bidyapara, Dhubri, Assam, 783301",10:00 AM,10:00 PM,26.024297,89.982862,0730 3182 534 
+" V-Mart  Sonkuchi, Barpeta"," Ground Floor, Barpeta Howly Road, Near Niric Hospital, Sonkuchi, Barpeta, Assam, 781301",11:00 AM,10:00 PM,26.335186,91.001526,0971 7122 998 
+" V-Mart  Islamsupa, Nalbari"," Dag No 1260/1869, Baro Masjid Chowk, Hajo Road, Islamsupa, Nalbari, Assam, 781335",10:00 AM,10:00 PM,26.445202,91.438759,0704 2313 004 
+" V-Mart  Sutapatti, Muzaffarpur"," Bhutan Road, Public Bus Stand, Rangia, Kamrup, Assam, 781354",11:00 AM,10:00 PM,26.43983,91.623081,0997 1143 002 
+" V-Mart  Hajo Block, Kamrup"," Sualkuchi, Bangshar, Near HDFC Bank, Hajo Block, Kamrup, Assam, 781103",11:00 AM,10:00 PM,26.16895274,91.57074589,0880 0192 274 
+" V-Mart  Kala Pahar, Guwhati"," Lokhra Rd, Lutuma, Barsapara, Binowa Nagar, Kala Pahar, Guwhati, Assam, 781018",10:00 AM,10:00 PM,26.14933,91.7409699,0844 8480 727 
+" V-Mart  Gmc, Guwahati"," Ground Floor, Rg Baruah Road, Zoo Tiniali, Near Guwahati Commerce College, Gmc, Guwahati, Assam, 781003",10:00 AM,10:00 PM,26.177558,91.7759429,0882 4015 878 
+" V-Mart  Udalguri, Darrang"," Ward No 4, Mahatma Gandhi Road, Hat Khola, Udalguri, Darrang, Assam, 784509",10:00 AM,10:00 PM,26.7359457,92.0918026,0844 8854 930 
+" V-Mart  Thekerabari, Darrang"," Ward No 7, Panbari Road, NH 15, Kharupetia, Opposite Union Bank Atm, Thekerabari, Darrang, Assam, 784115",10:00 AM,10:00 PM,26.5157657,92.1419955,0730 3585 362 
+" V-Mart  Dhekiajuli, Sonitpur"," Ground Floor, Tezpur Road, Opposite Indian Oil Petrol Pump, Dhekiajuli, Sonitpur, Assam, 784110",11:00 AM,10:00 PM,26.703433,92.4768798,0928 9662 259 
+" V-Mart  Panigaon, Nagaon"," Ground Floor, Assam Trunk Road, Kalibari, Panigaon, Nagaon, Assam, 782001",10:00 AM,10:00 PM,26.3535626,92.6999379,0844 8480 726 
+" V-Mart  Biswanath Chariali, Sonitpur"," Bg Road, Biswanath Chariali, Sonitpur, Assam, 784176",10:00 AM,10:00 PM,26.742602,93.1496365,0931 9697 762 
+" V-Mart  Gar-Ali, Jorhat"," Mouza No 2, Assam Truck Road, Near Eleye Cinema Hall, Gar-Ali, Jorhat, Assam, 785001",10:00 AM,10:00 PM,26.7563498,94.2157128,0844 8480 728 
+" V-Mart  Dolmukh Chariali, Sivasagar"," Ground Floor, Boarding Road, Near Post Office, Dolmukh Chariali, Sivasagar, Assam, 785640",11:00 AM,10:00 PM,26.98378785,94.63391386,0928 9662 260 
+" V-Mart  Jhalukpara, Dibrugarh"," Mittal Plaza, Babulal Poddar Path, Jhalukpara, Dibrugarh, Assam, 786001",10:00 AM,10:00 PM,27.4819338,94.9056072,0966 7790 298 
+" V-Mart  Bagaha, West Champaran"," Hotel Vishal International, Ward No 10, Naraipur, In Front Of Bagaha Railway Station, Bagaha, West Champaran, Bihar, 845105",10:00 AM,10:00 PM,27.129449,84.067077,0880 0837 136 
+" V-Mart  Vidyapati Nagar, West Champaran"," Uk Tower, Supriya Cinema Road, Vidyapati Nagar, West Champaran, Bihar, 845438",10:00 AM,10:00 PM,26.8052529,84.5147847,0938 6503 359 
+" V-Mart  Bhabua, Kaimur"," Ground Floor, Main Road, Bhabua, Kaimur, Bihar, 821101",10:00 AM,10:00 PM,25.0492808,83.6162927,0729 0026 406 
+" V-Mart  Koirpurwa, Buxar"," Mini Tower Jyoti Prakash Chowk, Koirpurwa, Buxar, Bihar, 802101",10:00 AM,10:00 PM,25.5678685,83.9758813,0846 7922 657 
+" V-Mart  Banakata, Gopalganj"," Ground Floor, Vijay Market, Opposite To Bus Stand, Banakata, Gopalganj, Bihar, 841413",10:00 AM,10:00 PM,26.4611962,84.4383196,0938 6361 115 
+" V-Mart  Pal Nagar, Siwan"," Rajender Path, Babunia More, Chhapra Road, Pal Nagar, Siwan, Bihar, 841226",10:00 AM,10:00 PM,26.2229575,84.3640737,0938 6152 670 
+" V-Mart  Raxaul, East Champaran"," Nahar Chowk, Koreiya Tola, Raxaul, East Champaran, Bihar, 845305",10:00 AM,10:00 PM,26.97751,84.84932,0930 4566 272 
+" V-Mart  Bikramganj, Rohtas"," 571, Parmeela Complex, Arrah Road, Golakshani, Bikramganj, Rohtas, Bihar, 802212",10:00 AM,10:00 PM,24.9593854,84.0161204,0938 6853 426 
+" V-Mart  Motihari, East Champaran"," National Highway 28A, Janpul Road, Rajendra Nagar, Motihari, East Champaran, Bihar, 845401",10:00 AM,10:00 PM,26.6619615,84.9132496,0933 4573 250 
+" V-Mart  Dehri, Rohtas"," Pali Road, Near Dehri On Sone, Dehri, Rohtas, Bihar, 821307",10:00 AM,10:00 PM,24.901713,84.186938,0982 1189 483 
+" V-Mart  Pratap Nagar, Chhapra"," Ward No 13, Holding No 20/33A/11, Circle No 20, Bhagwan Bazar, Pratap Nagar, Chhapra, Bihar, 841301",10:00 AM,10:00 PM,25.784547,84.725655,0931 1775 494 
+" V-Mart  Chakia, East Champaran"," Powell Intl Mall, Kesariya Road, Near Devkrit Pandey Thakur Singh Inter College, Chakia, East Champaran, Bihar, 845412",10:00 AM,10:00 PM,26.4116728,85.0373116,0844 8085 184 
+" V-Mart  Arrah, Bhojpur"," Babu Bazaar, D T Road, Arrah, Bhojpur, Bihar, 802301",10:00 AM,10:00 PM,25.5608225,84.668163,0930 4009 826 
+" V-Mart  Aitwarpur, Patna"," Harihar Babu Commercial Complex, Patna-Gaya Road, Aitwarpur, Patna, Bihar, 824143",10:00 AM,10:00 PM,25.0341571,84.3988876,0930 8232 456 
+" V-Mart  New Area, Aurangabad(Bh)"," Maa Parvati Commercial Complex, Mg Road, New Area, Aurangabad(Bh), Bihar, 824101",10:00 AM,10:00 PM,24.749733,84.366564,0938 6252 626 
+" V-Mart  Sheohar, Sheohar"," Khasra No 5563, Sheohar-Minapur Road, Adjoining Axis Bank, Sheohar, Sheohar, Bihar, 843329",10:00 AM,10:00 PM,26.5108652,85.3001121,0729 0036 229 
+" V-Mart  Khagual, Patna"," Bailey Road, Saguna More, Opposite Keshav Hospital, Khagual, Patna, Bihar, 801503",10:00 AM,10:00 PM,25.622997,85.042685,0997 1179 135 
+" V-Mart  Lalganj, Vaishali"," Ward No 7, Main Road, Gandhi Chowk, Lalganj, Vaishali, Bihar, 844121",09:00 AM,09:00 PM (Closing Soon) ,25.8680559,85.1719391,0880 0110 366 
+" V-Mart  Bhabdepur, Sitamarhi"," Nh 77 Dumra Road, Rajo Patti Area, Bhabdepur, Sitamarhi, Bihar, 843302",10:00 AM,10:00 PM,26.6056713,85.4786085,0938 9760 960 
+" V-Mart  Phulwari, Patna"," Chandrakanta Complex, Sector 14, Rajiv Nagar, Phulwari, Patna, Bihar, 800024",10:00 AM,10:00 PM,25.6315977,85.0946442,0933 4710 960 
+" V-Mart  Kurji, Patna"," New Saraswati Chandra Market, Kurji Mor, Near PNB Bank,Opp. Chasma Gali, Kurji, Patna, Bihar, 800010",10:00 AM,10:00 PM,25.638171,85.10847,0966 7790 297 
+" V-Mart  Phulwari, Patna"," Plot No 272, Tauzi No 5311, Mall Road, Near Pnb, Phulwari, Patna, Bihar, 800013",10:00 AM,10:00 PM,25.6371194,85.1085908,0966 7790 297 
+" V-Mart  Anishabad, Patna"," Khata No 133, Police Colony, Thana No 14, Opposite Planet Fashion, Anishabad, Patna, Bihar, 800002",10:00 AM,10:00 PM,25.582182,85.088984,0981 0891 614 
+" V-Mart  Phulwari, Patna"," Raj Tower, Boring Road Crossing, Anandpuri, Near Verma Center, Phulwari, Patna, Bihar, 800001",10:00 AM,10:00 PM,25.614463,85.116874,0933 4834 960 
+" V-Mart  Sutapatti, Muzaffarpur"," Priya Market, Sutapatti Road, Sutapatti, Muzaffarpur, Bihar, 842001",10:00 AM,10:00 PM,26.12542124,85.38507234,0748 8507 511 
+" V-Mart  Sutapatti, Muzaffarpur"," Priya Market, Sutapatti Road, Sariya Ganj, Sutapatti, Muzaffarpur, Bihar, 842001",10:00 AM,10:00 PM,26.1254056,85.3850871,0748 8507 511 
+" V-Mart  Sampatchak, Patna"," Plot No 16, Block C, Housing Colony, Kankarbagh, Near Tempo Stand, Sampatchak, Patna, Bihar, 800020",10:00 AM,10:00 PM,25.594333,85.148194,0776 1918 155 
+" V-Mart  Sector 13, Chandigarh"," Sco 44, Chandigarh Panchkula Road, Manimajra, Sector 13, Chandigarh, Chandigarh, 160101",10:00 AM,10:00 PM,30.7101368,76.8393662,0935 6347 954 
+" V-Mart  Lajpat Nagar, South East Delhi"," No D 3, Block 1, Central Market 2, Lajpat Nagar, South East Delhi, Delhi, 110024",10:00 AM,10:00 PM,28.568548,77.242454,0844 8982 285 
+" V-Mart  Laxmi Nagar, New Delhi"," Shop No 610 And 611, Ravi Das Marg, Main Bazar Road, Guru Ram Das Nagar, Laxmi Nagar, New Delhi, Delhi, 110092",10:00 AM,10:00 PM,28.6365793,77.2790923,0931 3699 995 
+" V-Mart  Shahdara, New Delhi"," C 7, Jyoti Nagar West, North Chajjupur, Block A, Shahdara, New Delhi, Delhi, 110032",10:00 AM,10:00 PM,28.689468,77.2880388,0931 0965 120 
+" V-Mart  Dwarka, New Delhi"," No E/561/A & E/561B, Palam Extension, Dwarka, New Delhi, Delhi, 110075",10:00 AM,10:00 PM,28.583891,77.071784,0704 2989 955 
+" V-Mart  Burari, North Delhi"," Virendar Nagar, Block B, Sant Nagar, 100 feet Road, near Axis Bank, Burari, North Delhi, Delhi, 110084",10:00 AM,10:00 PM,28.7427944,77.1980152,0928 9551 045 
+" V-Mart  Narela, North West Delhi"," Plot No 63, Block A, Pana Udyan, Narela, North West Delhi, Delhi, 110040",10:00 AM,10:00 PM,28.852096,77.088581,0742 8495 287 
+" V-Mart  Vaddem, Vasco Da Gama"," F1, S2, T3, F4, 1St Flr, 1930 Vasco Mall, Swatantra Path, Vaddem, Vasco Da Gama, Goa, 403802",11:00 AM,10:00 PM,15.3969787,73.8130115,0928 9062 306 
+" V-Mart  Mahesana Gidc, Mahesana"," Aum Natraj Complex, State Highway Road, Mahesana Gidc, Mahesana, Gujarat, 384002",10:00 AM,10:00 PM,23.5890557,72.3768849,0937 6098 820 
+" V-Mart  Ellisbridge, Ahmedabad"," Broadway Business Center, Netaji Road, Law Garden Corner, Ellisbridge, Ahmedabad, Gujarat, 380006",10:00 AM,10:00 PM,23.028411,72.560677,0937 4677 507 
+" V-Mart  Alkapuri, Vadodara"," Hotel Sudarshan Palace, Rc Datta Road, Alkapuri, Vadodara, Gujarat, 390007",10:00 AM,10:00 PM,22.309479,73.178909,0932 7916 340 
+" V-Mart  Morbi, Rajkot"," Hari Om Market, Ravapar Road, Morbi, Rajkot, Gujarat, 363641",10:00 AM,10:00 PM,22.8087215,70.8294961,0932 8572 268 
+" V-Mart  Nana Varachha, Surat"," Shop No 4 To 7, 104 To 111, Ground Floor And 1St Floor, Deepkamal Mall & Multiplex, Varaccha Road, Nana Varachha, Surat, Gujarat, 395006",11:00 AM,10:00 PM,21.2291761,72.8967132,0928 9062 305 
+" V-Mart  Bank Circle, Gandhidham"," Raj Kamal 1, Pn 348, Ward 12/B, Bank Circle, Gandhidham, Gujarat, 370201",10:00 AM,10:00 PM,23.065682,70.138837,0932 8603 852 
+" V-Mart  Aradhna Society, Jamnagar"," Kartik CPLX, Col Shri, Joggers Park Road, Aradhna Society, Jamnagar, Gujarat, 361008",10:00 AM,10:00 PM,22.47962191,70.05378252,0937 6130 960 
+" V-Mart  Park Colony, Jamnagar"," Kartik Complex, Col Shri, Joggers Park Road, Park Colony, Jamnagar, Gujarat, 361008",10:00 AM,10:00 PM,22.4796115,70.0537889,0937 6130 960 
+" V Mart  Talav Gate, Junagadh"," Applewood Icon, Talav Darwaja Road, Near Inderlok Arcade, Talav Gate, Junagadh, Gujarat, 362001",10:00 AM,10:00 PM,21.519691,70.458891,0997 1758 008 
+" V-Mart  New Industrial Town, Faridabad"," Ground Floor, Kali Mandir, Opposite Old Nit Bus Stand, New Industrial Town, Faridabad, Haryana, 121001",10:00 AM,10:00 PM,28.3839105,77.2888889,0928 9447 776 
+" V-Mart  Badshahpur, Gurugram"," Mangla Tower, Main Badshahpur Sohna Road, Sector 66, Near Mamta Sweets, Badshahpur, Gurugram, Haryana, 122101",10:00 AM,10:00 PM,28.390745,77.049525,0981 0891 205 
+" V-Mart  Palwal, Faridabad"," Bhatia Complex, Agra Chowk, Moti Colony, Palwal, Faridabad, Haryana, 121102",11:00 AM,10:00 PM,28.136079,77.329172,0966 7738 051 
+" V-Mart  Old Town, Ambala"," 2526 A/2637, Blk 2, Jagadhari Gate, Patel Road, Jogiwara, Old Town, Ambala, Haryana, 134003",10:00 AM,10:00 PM,30.3842684,76.773335,0935 4668 787 
+" V-Mart  Palampur, Kangra"," Palampur City Mall, Main Market Road, Near HDFC Bank, Palampur, Kangra, Himachal Pradesh, 176052",10:00 AM,10:00 PM,32.1052151,76.5339596,0730 3200 879 
+" V-Mart  Adarsh Colony, Kangra"," Main Road, Opposite Bus Stand, Adarsh Colony, Kangra, Himachal Pradesh, 176001",10:00 AM,10:00 PM,32.1139666,76.279339,0730 3184 440 
+" V-Mart  Down Town, Kathua"," Ground Floor, College Road, Down Town, Kathua, Jammu and Kashmir, 184101",10:00 AM,10:00 PM,32.3733605,75.5226799,0783 8128 189 
+" V-Mart  Narwal, Jammu"," Ground Floor, Near Kunjwani Chowk, Opposite Government Tube Well, Narwal, Jammu, Jammu and Kashmir, 180010",10:00 AM,10:00 PM,32.6722038,74.881153,0730 3200 897 
+" V-Mart  Jewel Chowk, Jammu"," Plot No 1, Bc Road, Near St Peters High School, Jewel Chowk, Jammu, Jammu and Kashmir, 180016",10:00 AM,10:00 PM,32.7270383,74.8566507,0966 7300 384 
+" V-Mart  Kacchi Chawni, Jammu"," Plot No 221, Palace Road, Opposite Red Cross Building, Kacchi Chawni, Jammu, Jammu and Kashmir, 180001",10:00 AM,10:00 PM,32.740126,74.868253,0968 2607 909 
+" V-Mart  Shiv Nagar, Jammu"," Khasra No 212, 213, Khata No 356, Opposite Vijay Rice Mill, Shiv Nagar, Jammu, Jammu and Kashmir, 180002",10:00 AM,10:00 PM,32.736574,74.828385,0742 8495 288 
+" V-Mart  Housing Colony, Jammu"," Khasra No 1145, Pamposh Colony, Janipur, Housing Colony, Jammu, Jammu and Kashmir, 180007",10:00 AM,10:00 PM,32.762571,74.84499,0742 8495 284 
+" V-Mart  Shiv Nagar, Udhampur"," Chanakya Plaza Complex, Nh 1A, Shiv Nagar, Udhampur, Jammu and Kashmir, 182101",10:00 AM,10:00 PM,32.9264,75.13201,0910 3322 050 
+" V-Mart  Badyar Balla, Srinagar"," Sarah City Center, Hari Singh High Street, Indira Gandhi Road, Badyar Balla, Srinagar, Jammu and Kashmir, 190001",10:00 AM,10:00 PM,34.070961,74.803702,0920 5065 510 
+" V-Mart  Pipra Khurd, Garhwa"," Beside Navneet Hotel, Sahijna Road, Ranka More, Pipra Khurd, Garhwa, Jharkhand, 822114",10:00 AM,10:00 PM,24.158968,83.807623,0920 5364 103 
+" V-Mart  Medininagar, Palamu"," Plot No. 2616, Redma Chowk, Near ICICI Bank, Medininagar, Palamu, Jharkhand, 822101",10:00 AM,10:00 PM,24.037843,84.075691,0933 4903 953 
+" V-Mart  Sasang, Latehar"," Ground Floor, Main Market Road, Near State Bank Of India, Sasang, Latehar, Jharkhand, 829206",10:00 AM,10:00 PM,23.7448195,84.5056982,0729 0036 231 
+" V-Mart  Gudri Bazar, Lohardaga"," Mb Complex, Shukla Bazar Road, Gudri Bazar, Lohardaga, Jharkhand, 835302",10:00 AM,10:00 PM,23.431347,84.683618,0844 8480 723 
+" V-Mart  Barhi, Chatra"," Ps No 71, Barhi, Chatra, Jharkhand, 825405",10:00 AM,10:00 PM,24.30413,85.421357,0931 1375 494 
+" V-Mart  Gumla, Gumla"," Aashirvaad Complex, Ward No 12, Sisai Road, Gumla, Gumla, Jharkhand, 835207",10:00 AM,10:00 PM,23.0414787,84.5457969,0977 3989 146 
+" V-Mart  Upper Bazar, Ranchi"," Pn 983, Hinoo Main Road, Birsa Chowk, Upper Bazar, Ranchi, Jharkhand, 834002",10:00 AM,10:00 PM,23.3782907,85.3168627,0901 5684 112 
+" V-Mart  Hehal, Ranchi"," Ward No 35, Priya Kunj Complex, Ratu Road, Opposite Ashtha Apartment, Hehal, Ranchi, Jharkhand, 834005",10:00 AM,10:00 PM,23.378279,85.317312,0971 7050 062 
+" V-Mart  Naga Baba Khatal, Ranchi"," Epic Centre, Raj Hospital Complex, Main Road, Naga Baba Khatal, Ranchi, Jharkhand, 834001",10:00 AM,10:00 PM,23.3780409,85.3187527,0938 6093 975 
+" V-Mart  Ramgarh, Hazaribag"," Panchratna Chourasia Galaxy, Gola Road, Ramgarh, Hazaribag, Jharkhand, 829103",10:00 AM,10:00 PM,23.6273765,85.5245513,0728 9913 783 
+" V-Mart  Baragain, Ranchi"," Pn 2650, Khata No 246, Shyama Residency, No 10/18, Thana 184, Bariatu Road, Baragain, Ranchi, Jharkhand, 834009",10:00 AM,10:00 PM,23.400681,85.367238,0981 0890 587 
+ V Mart  ," Siram Village, Indira Chowk, Station Road, Kathartoli, Ranchi, Jharkhand, 834001",10:00 AM,10:00 PM,23.354817,85.338477,0730 3522 335 
+" V-Mart  Jannat Ganar, Khunti"," Liyaqat Ali Line, Subhash Chowk, Jannat Road, Jannat Ganar, Khunti, Jharkhand, 835210",10:00 AM,10:00 PM,23.0812065,85.2761274,0730 3520 077 
+" V-Mart  Phusro Bazaar, Bokaro"," Manish Trading Co, Bhoot Bunglow, Pn 2047, Phusro Bazaar, Bokaro, Jharkhand, 829144",10:00 AM,10:00 PM,23.764556,85.9946372,0844 8597 235 
+" V-Mart  Kalibari, Giridih"," Kd Market, Kalibari Chowk, Makatpur Road, Kalibari, Giridih, Jharkhand, 815301",10:00 AM,10:00 PM,24.1858609,86.3080073,0930 4042 100 
+" V-Mart  Williams Town, Deoghar, Jharkhand 814112, Deoghar"," Deoghar Palace, VIP Chowk, Court Road, Williams Town, Deoghar, Jharkhand 814112, Deoghar, Jharkhand, 814112",10:00 AM,10:00 PM,24.4923761,86.6836409,0938 6888 167 
+" V-Mart  Williams Town, Deoghar"," Deoghar Palace, Vip Chowk, Court Road, Williams Town, Deoghar, Jharkhand, 814112",10:00 AM,10:00 PM,24.4922548,86.6860203,0938 6888 167 
+" V-Mart  Bokaro Steel City, Bokaro"," Shree Ram Complex Netaji Chowk, Check Post Main Road, Bokaro Steel City, Bokaro, Jharkhand, 827013",10:00 AM,10:00 PM,23.637314,86.163111,0930 4058 986 
+" V-Mart  Nawadih, Dhanbad"," London Mall, Binod Bihari Chowk, Hirak Road, Nawadih, Dhanbad, Jharkhand, 828130",11:00 AM,10:00 PM,23.816361,86.411179,0981 0895 763 
+" V-Mart  Bank More, Dhanbad"," Aastha Santosh Plaza, Shashtri Nagar, Jharia Road, Near Skylark Hotel, Bank More, Dhanbad, Jharkhand, 826001",10:00 AM,10:00 PM,23.7878059,86.4190322,0730 3585 361 
+" V-Mart  Hirapur, Dhanbad"," Luby Circular Road, Manoram Nagar, Hirapur, Dhanbad, Jharkhand, 826001",10:00 AM,10:00 PM,23.8003568,86.4370436,0933 4333 519 
+" V-Mart  Saraidhella, Dhanbad"," Aastha Twin Tower, Govindpuri Road, Near The Gallaeria Mall, Saraidhella, Dhanbad, Jharkhand, 828127",10:00 AM,10:00 PM,23.82297,86.476075,0742 8264 726 
+" V-Mart  Godda, Godda"," Ground Floor, Rautara Chowk, Near LIC Office, Godda, Godda, Jharkhand, 814133",10:00 AM,10:00 PM,24.839666,87.21327,0931 1388 653 
+" V-Mart  Rajpalli Jamtara, Jamtara"," Gandhi Chowk, Court Road, Near Sbi Main Branch, Rajpalli Jamtara, Jamtara, Jharkhand, 815351",10:00 AM,10:00 PM,23.9624023,86.7954307,0729 0036 205 
+" V-Mart  Kadma, East Singhbhum"," Radha Krishna Nirmaan Pvt Ltd, Kandra Road, Adityapur, Kadma, East Singhbhum, Jharkhand, 831005",10:00 AM,10:00 PM,22.7868339,86.163668,0729 0036 204 
+" V-Mart  Sakchi, Jamshedpur"," M Bazaar Sakchi, Snp Area, Ambagan, Sakchi, Jamshedpur, Jharkhand, 831001",10:00 AM,10:00 PM,22.8066879,86.203057,0730 3182 536 
+" V-Mart  Sakchi, Jamshedpur"," No 83, Tank Road, Sakchi, Jamshedpur, Jharkhand, 831001",10:00 AM,10:00 PM,22.806089,86.205306,0933 4903 953 
+" V-Mart  Banjara Nagar, Bijapur"," Patil Planet, Bm Patil Road, Near Bld Hospital, Banjara Nagar, Bijapur, Karnataka, 586101",11:00 AM,09:30 PM,16.850386,75.712196,0928 9062 295 
+" V-Mart  Ayodhya Nagar, Belgaum"," Ward No 48, Civil Hospital Road, Ayodhya Nagar, Belgaum, Karnataka, 590001",11:00 AM,10:00 PM,15.873478,74.512665,0928 9062 283 
+" V-Mart  Gandhi Nagar, Bellary"," Plot No 145 To 148/A, 2Nd Cross, Khb Colony, Opposite Sukrutha Nursing Home, Gandhi Nagar, Bellary, Karnataka, 583103",11:00 AM,10:00 PM,15.152952,76.933163,0928 9062 299 
+" V-Mart  Prince Jayachamaraja Wodeyar, Davanagere"," Shop No 56-5B1-5B4 AVK College Road, PJ Extn, Prince Jayachamaraja Wodeyar, Davanagere, Karnataka, 577002",10:00 AM,10:00 PM,14.463185,75.917753,0928 9062 294 
+" V-Mart  Kuvempu Nagar, Davanagere"," D No 3993/23, Ss Gardenia, Ss Layout, A Block, Shamanur Road, Near Lakshmi Flour Mill, Kuvempu Nagar, Davanagere, Karnataka, 577004",11:00 AM,10:00 PM,14.455295,75.905862,0928 9062 289 
+" V-Mart  Vidyanagar, Tumkur"," Shop No 31 To 33, Muddappa Arcade, 2Nd Cross, Bh Road, Vidyanagar, Tumkur, Karnataka, 572103",11:00 AM,10:00 PM,13.334995,77.123022,0928 9062 292 
+" V-Mart  Manipal, Udupi"," Unit No Ff1 To Ff6, 1St Flr, Canara Mall, Shivalli, Opposite Manipal Hospital, Manipal, Udupi, Karnataka, 576104",11:00 AM,10:00 PM,13.352654,74.790291,0928 9062 298 
+" V-Mart  Bengaluru North, Bengaluru"," Plot No 587, Basement To 3Rd Floor, Vidyaranyapura Main Road, Vidyaranyapura, Bengaluru North, Bengaluru, Karnataka, 560097",09:30 AM,09:30 PM,13.0808372,77.5595022,0928 9062 297 
+" V-Mart  Bengaluru North, Bengaluru"," Shop No 41 And 42, Kodigehalli, Yelahanka Hobli, Sahakara Nagar, Bengaluru North, Bengaluru, Karnataka, 560092",11:00 AM,10:00 PM,13.063231,77.591975,0928 9062 303 
+" V-Mart  Bengaluru North, Bengaluru"," Shop No 23, Devaraja Arcade, Iti Layout, Bel Road, Next To Nandhana Palace, Bengaluru North, Bengaluru, Karnataka, 560054",11:00 AM,10:00 PM,13.03295,77.5692464,0804 1495 222 
+" V-Mart  Yashwantapur, Bengaluru"," No 9/36, Vaishnavi Sapphire Mall, Tumkur Road, Yashwantapur, Bengaluru, Karnataka, 560022",11:00 AM,10:00 PM,13.024466,77.548771,0928 9062 300 
+" V-Mart  Kalyan Nagar, Bengaluru"," 417/A, Hrbr 3Rd Block, Kammanahalli, Kacharakanahalli, Banaswadi, Next To ICICI Bank, Kalyan Nagar, Bengaluru, Karnataka, 560043",10:30 AM,09:30 PM,13.024966,77.636864,0928 9062 285 
+" V-Mart  Bengaluru North, Bengaluru"," Shop No 308/5C, East Of Ngef Layout, Main Road, Banaswadi, Ramamurthy Nagar, Next To Tarun Motors, Bengaluru North, Bengaluru, Karnataka, 560016",11:00 AM,10:00 PM,13.012221,77.665948,0928 9062 304 
+" V-Mart  Bengaluru North, Bengaluru"," Plot No 721, Modi Hospital Road, 2Nd Stage, West Of Chord Road, Basaveshwara Nagar, Opposite Kadamba Hotel, Bengaluru North, Bengaluru, Karnataka, 560086",11:00 AM,10:00 PM,12.997311,77.547843,0928 9062 290 
+" V-Mart  Whitefield, Bengaluru"," 01/11, 1St Flr, Ascendas Park Sqre Mall, Whitefield Road, Pattandur Agrahara, Whitefield, Bengaluru, Karnataka, 560066",11:00 AM,10:00 PM,12.986925,77.736634,0928 9062 288 
+" V-Mart  Bengaluru North, Bengaluru"," Shop No 92, 12 To 16, Ugf, Gt Mall, Magadi Main Road, Next To Prasanna Theatre, Bengaluru North, Bengaluru, Karnataka, 560023",11:00 AM,10:00 PM,12.973693,77.551804,0928 9062 284 
+" V-Mart  Bengaluru North, Bengaluru"," Plot No 857, Ground And 1St Floor, Cl Arcade, 80 Feet Road, Vinayaka Layout, Nagarbhavi, Bengaluru North, Bengaluru, Karnataka, 560072",11:00 AM,10:00 PM,12.960966,77.507281,0928 9062 296 
+" V-Mart  Whitefield, Bengaluru"," Shop No 62, Forum Value Mall, Prestige Ozone, Near Varthur Kodhi, Whitefield, Bengaluru, Karnataka, 560066",10:00 AM,10:00 PM,12.959719,77.747917,0928 9062 293 
+" V-Mart  Hsr Layout, Bengaluru"," No 1099, Ground To 3Rd Floor, 13 Road Main, Sector 3, Hsr Layout, Bengaluru, Karnataka, 560102",10:30 AM,09:30 PM,12.9110603,77.6380315,0928 9062 287 
+" V-Mart  Nazarabad, Mysore"," Shop No 01, 2Nd Floor, Mall Of Mysore, Mg Road, Indira Nagar Extension, Near Zoo, Nazarabad, Mysore, Karnataka, 570010",10:30 AM,09:30 PM,12.2979261,76.6646234,0928 9062 302 
+" Unlimited Fashion Store  Unlimited Fashion Store - Thalassery, Kannur"," Shop No 43/642, Abhi Dhana Tower, Narangapuram Juma Masjid, Thalassery Bus Stand, Thalassery, Kannur, kerala, 670102",10:30 AM,09:00 PM (Closing Soon) ,11.748306,75.493889,0959 9298 110 
+" V-Mart  Keerankulangara, Thrissur"," D No 8/9 A1, Chembukavu, Opposite Marthoma Church East Fort Jn, Keerankulangara, Thrissur, Kerala, 680001",11:00 AM,10:00 PM,10.523691,76.225791,0928 9062 282 
+" V-Mart  Gird, Gwalior"," Plot No 562, Ward No 2, Shabd Pratap Ashram Road, Gd Palace, Surya Nagar, Gird, Gwalior, Madhya Pradesh, 474008",10:00 AM,10:00 PM,26.2153156,78.16229,0730 3585 368 
+" V-Mart  Gird, Gwalior"," Chitra Talkies, Nai Sadak, Opposite Filmistan Tilkis, Gird, Gwalior, Madhya Pradesh, 474009",10:00 AM,10:00 PM,26.2054155,78.1517824,0742 8199 090 
+" V-Mart  Lashkar, Gwalior"," Plot No 184, Ek Roxy Bridge, Roxy Pul, Idgah, Lashkar, Gwalior, Madhya Pradesh, 474001",10:00 AM,10:00 PM,26.1952052,78.1513555,0730 3585 367 
+" V-Mart  Bank Colony, Shivpuri"," Br Tower, Ab Road, Bank Colony, Shivpuri, Madhya Pradesh, 473551",10:00 AM,10:00 PM,25.4247071,77.657974,0930 0392 950 
+" V-Mart  Naya Mohalla, Chhatarpur"," Ab Complex, Jawahar Road, Naya Mohalla, Chhatarpur, Madhya Pradesh, 471001",11:00 AM,10:00 PM,24.917917,79.583992,0928 9792 510 
+" V-Mart  Railway Colony, Satna"," Ground Floor, Station Road, Near Aggarwal Garden, Railway Colony, Satna, Madhya Pradesh, 485001",11:00 AM,10:00 PM,24.57236637,80.83042773,0971 7111 997 
+" V-Mart  Karond, Bhopal"," Plot No 3 & 4, Main Road, Palak Plaza, Karond Chauraha, Karond, Bhopal, Madhya Pradesh, 462001",10:00 AM,10:00 PM,23.303966,77.403458,0730 3200 878 
+" V-Mart  Ram Nagar Colony, Bhopal"," Plot No 8 And 9, Ground Floor Main Berasia Road, Sant Kanwar Road, Ram Nagar Colony, Bhopal, Madhya Pradesh, 462021",10:00 AM,10:00 PM,23.299468,77.404079,0930 0805 672 
+" V-Mart  Bairagarh, Bhopal"," No New B 51/521 & 51/522, Main Road, Bairagarh, Bhopal, Madhya Pradesh, 462030",10:00 AM,10:00 PM,23.270308,77.333858,0844 8856 619 
+" V-Mart  Jhangirabad, Bhopal"," Plot No 3/8, Bunglow No 1, Sultania Road, Jhangirabad, Bhopal, Madhya Pradesh, 462008",10:00 AM,10:00 PM,23.2539076,77.4123647,0844 8528 662 
+" V-Mart  Sonagiri, Bhopal"," No H6B, Inderpuri, Sonagiri, Bhopal, Madhya Pradesh, 462023",10:00 AM,10:00 PM,23.248251,77.471929,0930 1674 875 
+" V-Mart  Chuna Bhatti, Bhopal"," Royal Palace, B-Sector, Sarvadharam, Kolar Main Road, Chuna Bhatti, Bhopal, Madhya Pradesh, 462042",10:00 AM,10:00 PM,23.201453,77.416904,0966 7790 291 
+" V-Mart  Huzur, Rewa"," Ram Krishna Complex, Shilpi Plaza Road, Huzur, Rewa, Madhya Pradesh, 486001",10:00 AM,10:00 PM,24.5381449,81.2953853,0728 9006 714 
+" V-Mart  Freeganj, Ujjain"," Shaheed Park, Betal Marg, Madhav Nagar, Freeganj, Ujjain, Madhya Pradesh, 456001",10:00 AM,10:00 PM,23.179585,75.7914108,0930 0040 826 
+" V-Mart  Transport Nagar, Jabalpur"," 27 Damohji Road, Pratap Market, Transport Nagar, Jabalpur, Madhya Pradesh, 482002",10:00 AM,10:00 PM,23.186932,79.926978,0742 8680 312 
+" V-Mart  Bairati Colony, Indore"," Plot No 3/2, Bhawarkua Road, Near Tower Square, Bairati Colony, Indore, Madhya Pradesh, 452014",10:00 AM,10:00 PM,22.6995618,75.8639858,0813 0209 259 
+" V-Mart  Pithampur, Dhar"," Neemuch Road, Near UCO Bank, Pithampur, Dhar, Madhya Pradesh, 454774",10:30 AM,09:30 PM,22.608043,75.683071,0956 0502 142 
+" V-Mart  Singrauli Colliery, Sidhi"," Vidhya Nagar Road, Singrauli, Near Paramsukkh Das Filing Station, Singrauli Colliery, Sidhi, Madhya Pradesh, 486886",11:00 AM,10:00 PM,24.079721,82.657132,0880 0560 956 
+" V-Mart  Lawate Nagar, Nashik"," Plot No 529, Shop No 9 To 10, 1St Floor, City Centre Mall, Mfs 7 To Mfs13, Untwadi Road, Lawate Nagar, Nashik, Maharashtra, 422002",11:00 AM,10:00 PM,19.990563,73.762062,0928 9062 277 
+" V-Mart  Dapodi, Pune"," Cts No 1537, Bhakthi Premium, Old Bombay Pune Highway, Next To CME, Dapodi, Pune, Maharashtra, 411012",11:00 AM,10:00 PM,18.5868745,73.8311348,0928 9062 281 
+" V-Mart  Gultekdi, Pune"," Shop No 11 To 13, 1St Floor, Kumar Pacific, Cts No 42 And 43, Shankar Seth Road, Near Meera Society, Gultekdi, Pune, Maharashtra, 411037",11:00 AM,09:30 PM,18.5011012,73.8722866,0928 9062 280 
+" V-Mart  Sinhgad, Pune"," Survey No 16/3 And 16/4, Mohite Paradise, Hingne Khuroad, Anand Nagar, Near Mcdonalds, Sinhgad, Pune, Maharashtra, 411051",11:00 AM,10:00 PM,18.476139,73.822528,0928 9062 279 
+" V-Mart  Khanbhag, Sangli"," 1St Floor, Sfc Mega Mall, Station Road, Khanbhag, Sangli, Maharashtra, 416416",11:00 AM,10:00 PM,16.8604762,74.5699447,0928 9062 278 
+" V-Mart  Jowai, West Jaintia Hills"," Silchar Road Ladthadlaboh, Opposite PWD Office, Jowai, West Jaintia Hills, Meghalaya, 793150",10:00 AM,10:00 PM,25.4502269,92.1968349,0813 0420 225 
+" V-Mart  Keziekle, Kohima"," Ward No 3 Colony, North Block, Opposite Jain Temple, Keziekle, Kohima, Nagaland, 797001",10:00 AM,10:00 PM,25.678502,94.1098958,0742 8389 504 
+" V-Mart  Marwari Para, Jharsuguda"," Shankar Bagicha, Sarbahal Road, Marwari Para, Jharsuguda, Odisha, 768201",10:00 AM,10:00 PM,21.8501371,84.0134585,0933 7150 806 
+" V-Mart  Sundergarh, Rourkela"," Rourkela Daily Market, Near Haryana Bhawan, Sundergarh, Rourkela, Odisha, 769001",10:00 AM,10:00 PM,22.22766,84.851928,0931 1388 650 
+" V-Mart  Nayapara, Sambalpur"," Unit No 4, Chowk, Gole Bazar, Nayapara, Sambalpur, Odisha, 768001",10:00 AM,10:00 PM,21.4650024,83.9740591,0663 2521 398 
+" V-Mart  Madhapur, Kendujhar"," Raj Complex, Joda Barbil Road, New Market, Madhapur, Kendujhar, Odisha, 758001",10:00 AM,10:00 PM,21.6414486,85.6031616,0933 8557 128 
+" V-Mart  Dolai Street, Nabarangapur"," Old Market, Main Road, Gandhi Chowk, Dolai Street, Nabarangapur, Odisha, 764059",10:00 AM,10:00 PM,19.2283342,82.5484196,0801 0676 530 
+" V-Mart  Baripada, Mayurbhanj"," Sagar Palace Kc Circle, Udate, Belagadia Road, Baripada, Mayurbhanj, Odisha, 757001",10:00 AM,10:00 PM,21.926689,86.7273677,0930 8047 331 
+" V-Mart  Dhenkanal, Dhenkanal"," Amarnath Talkies, Dakhinakali Road, Dhenkanal, Dhenkanal, Odisha, 759001",10:00 AM,10:00 PM,20.6565816,85.5885484,0676 2225 042 
+" V-Mart  Samaraipur, Bhadrak"," Sai Jagarnath Market Complex, Ot Road Chhapulla, Samaraipur, Bhadrak, Odisha, 756100",10:00 AM,10:00 PM,21.05718,86.4960146,0801 0676 498 
+" V-Mart  Badambadi Colony, Cuttack"," Ground Floor, Link Road, Bishram Nagar, Badambadi Colony, Cuttack, Odisha, 753012",10:00 AM,10:00 PM,20.4521803,85.8917137,0728 9007 480 
+" V-Mart  Patia, Bhubaneswar"," Maruti Mall, KIIT Square, Nandankannan Road, Patia, Bhubaneswar, Odisha, 751024",11:00 AM,10:00 PM,20.35390653,85.82686729,0928 9662 265 
+" V-Mart  Brahmapur Sadar, Ganjam"," Plot No 630, Anand Plaza, Main Road, Hanuman Bazar, Brahmapur Sadar, Ganjam, Odisha, 760002",10:00 AM,10:00 PM,19.330429,84.766692,0933 7233 774 
+" V-Mart  Brahmapur Sadar, Ganjam"," Ground Floor, Annapurna Market, Urban Bank Road, Brahmapur Sadar, Ganjam, Odisha, 760001",10:00 AM,10:00 PM,19.3131162,84.7876369,0729 0036 211 
+" V-Mart  Ilango Nagar, Puducherry"," Ts No 4 , Arvind Lifestyle Brands Ltd, Ward G, Block No 9, Kamaraj Salai, Ilango Nagar, Puducherry, Puducherry, 605001",11:00 AM,10:00 PM,11.937286,79.823166,0928 9062 241 
+" V-Mart  Sector 19, Zirakpur"," Sco. No Bus Stand 3 & 4, Sector 19, Zirakpur, Punjab, 140603",10:00 AM,10:00 PM,30.6606763,76.8244899,0742 8389 505 
+" V-Mart  Civil Lines, Jalandhar"," N Shanti Tower, Nakoder Road, Shastri Nagar, Civil Lines, Jalandhar, Punjab, 144001",10:00 AM,10:00 PM,31.324611,75.575051,0935 6244 279 
+" V-Mart  Sadar Bazar, Gurdaspur"," Sh 25, Agm Place Tibiri, Road, Near Hanuman Chowk, Sadar Bazar, Gurdaspur, Punjab, 143521",10:00 AM,10:00 PM,32.037512,75.405854,0931 7563 913 
+" V-Mart  Pathankot, Gurdaspur"," Hb 336, Mission Dalhousie Link Road, Pathankot, Gurdaspur, Punjab, 145001",10:00 AM,10:00 PM,32.2751051,75.657034,0935 6785 269 
+" V-Mart  Subhash Chowk, Jaipur"," Plot No 51, Amer Road, Chaukadi, Near Kacha Bandha, Subhash Chowk, Jaipur, Rajasthan, 302002",10:00 AM,10:00 PM,26.929489,75.8320812,0729 0026 402 
+" V-Mart  Theme Colony, Jaipur"," Kedia Palace Road, Murlipura, Theme Colony, Jaipur, Rajasthan, 302039",11:00 AM,10:00 PM,26.970102,75.765961,0981 0848 981 
+" V-Mart  Jawahar Nagar, Jaipur"," Shop No 345/1, Fashion Street, Raja Park, Jawahar Nagar, Jaipur, Rajasthan, 302004",10:00 AM,10:00 PM,26.8957823,75.8269077,0742 8399 967 
+" V-Mart  Jhotwara, Jaipur"," Plot No 1 And 2, Kanta Chauraha, Kalawar Road, Kalyan Kunj Colony, Kalawar Road, Jhotwara, Jaipur, Rajasthan, 302012",10:00 AM,10:00 PM,26.945385,75.739721,0742 8389 506 
+" V-Mart  Tonk Fatak, Jaipur"," Plot No 21, Barkat Nagar, Tonk Fatak, Jaipur, Rajasthan, 302015",10:00 AM,10:00 PM,26.8782336,75.7939452,0813 0403 831 
+" V-Mart  Kanakpura, Jaipur"," Plot No 95, Mangal Nagar Yojna, Sirsi Road, Kanakpura, Jaipur, Rajasthan, 302015",10:00 AM,10:00 PM,26.92311,75.719729,0730 3182 345 
+" V-Mart  Sodala, Jaipur"," Plot No 9, Vishwa Nagar, New Sanganer Road, Sodala, Jaipur, Rajasthan, 302019",10:00 AM,10:00 PM,26.88571,75.768012,0931 1775 492 
+" V-Mart  Sanjay Nagar, Jaipur"," No 10/167, Chitrakoot Marg, In Front Of Sector 9 Gate No 2, Sanjay Nagar, Jaipur, Rajasthan, 302021",10:00 AM,10:00 PM,26.899919,75.738951,0742 8787 733 
+" V-Mart  Mansarovar, Jaipur"," Agarwal Farm, Vijay Path, Mansarovar, Jaipur, Rajasthan, 302020",11:00 AM,10:00 PM,26.84806323,75.77046624,0928 9662 262 
+" V-Mart  Pratap Nagar, Jaipur"," Plot No 111/14, Kumbha Marg, Sector 11, Pratap Nagar, Jaipur, Rajasthan, 302011",10:00 AM,10:00 PM,26.8017495,75.8215715,0880 0837 840 
+" V-Mart  Kamla Nagar, Jaipur"," New Sanganer Road, Dada Gurudev Nagar, Adjoining Chordia Petrol Pump, Kamla Nagar, Jaipur, Rajasthan, 302029",10:00 AM,10:00 PM,26.8188937,75.7816784,0931 9255 766 
+ V-Mart  ," Alanpur Link Road, Near Old Honda Showroom, Jeenapur, Sawai Madhopur, Rajasthan, 322001",10:00 AM,10:00 PM,26.008907,76.358488,0959 9806 900 
+" V-Mart  Naya Bazar, Ajmer"," 544, 07, Laxmi Chowk, Dargah Bazar, Naya Bazar, Ajmer, Rajasthan, 305001",10:00 AM,10:00 PM,26.4605904,74.6297738,0935 2868 890 
+" V-Mart  Chak Ghishiyader, Nagaur"," Kile Ki Dhal, Gandhi Chowk, Chak Ghishiyader, Nagaur, Rajasthan, 341001",10:00 AM,10:00 PM,27.285318,73.688762,0935 2308 124 
+" V-Mart  Bara Pancharole, Baran"," Kota Road, Infront of Government Senior Secondary School, Bara Pancharole, Baran, Rajasthan, 325205",11:00 AM,10:00 PM,25.099224,76.504117,0928 9551 044 
+" V-Mart  Kunadi, Kota"," Kcp 1, Rajat Platina, Maharana Pratap Circle, Kunadi, Kota, Rajasthan, 324008",10:00 AM,10:00 PM,25.198454,75.840616,0730 3627 002 
+" V-Mart  Dadabari, Kota"," 1 Ch 19, Shopping Complex, Basant Vihar, Dadabari, Kota, Rajasthan, 324009",10:00 AM,10:00 PM,25.1551677,75.827248,0930 9048 423 
+" V-Mart  Talwandi, Kota"," House No 3A1, Rangbari Road, Talwandi, Kota, Rajasthan, 324005",10:00 AM,10:00 PM,25.1421323,75.8381878,0730 3585 366 
+" V-Mart  Lohar Colony, Chittorgarh"," Plot No 1 & 2, Chittorgarh Udaipur Road, Gadia, Near Tourist Bunglow, Lohar Colony, Chittorgarh, Rajasthan, 312001",10:00 AM,10:00 PM,24.876917,74.620271,0931 1388 652 
+" V-Mart  Kankroli, Rajsamand"," Saraswati Colony, Rajsamand, Near Chhatariyo, Kankroli, Rajsamand, Rajasthan, 313324",10:00 AM,10:00 PM,25.057106,73.894401,0730 3537 755 
+" V-Mart  Fatehpura, Udaipur"," Badela Road, Fatehpura, Udaipur, Rajasthan, 313001",11:00 AM,10:00 PM,24.61138217,73.68906047,0959 9804 900 
+" V-Mart  Ashok Nagar, Udaipur"," Shastri Circle, University Road, Ashok Nagar, Udaipur, Rajasthan, 313001",10:00 AM,10:00 PM,24.587111,73.696041,0935 2608 844 
+" V-Mart  Hiran Magri, Udaipur"," Nakoda Complex, Main Road, Sector 4, Near Guru Nanak Girls Collage, Hiran Magri, Udaipur, Rajasthan, 313002",10:00 AM,10:00 PM,24.569126,73.721811,0704 2989 944 
+" V-Mart  Surajpole, Udaipur"," Shastri Circle, University Road, Ashok Nagar, Surajpole, Udaipur, Rajasthan, 313001",10:00 AM,10:00 PM,24.57803253,73.6955662,0935 2608 844 
+" V-Mart  Girwa, Udaipur"," Ground Floor, Khatikwada, Surajpole, Girwa, Udaipur, Rajasthan, 313001",10:00 AM,10:00 PM,24.5779914,73.6955663,0813 0402 905 
+" V-Mart  Villivakkam, Tiruvallur"," Pn 25 & 28, Srinagar Colony, Blk No 3, Purasawalkkam, Redhills Road, Kolathur, Villivakkam, Tiruvallur, Tamil Nadu, 600099",10:30 AM,10:00 PM,13.1275311,80.2176672,0928 9062 261 
+" V-Mart  Thottapalayam, Vellore"," No 11, New Katpadi Road, Suthanthira Ponvizha Nagar, Venkatraman Nagar, Near Green Circle, Thottapalayam, Vellore, Tamil Nadu, 632006",11:00 AM,10:00 PM,12.956055,79.136991,0928 9062 264 
+" V-Mart  Mogappair, Tiruvallur"," Plot No 1/Pc1, West Bus Stand, West 2 Block, Near Dr Super Market, Mogappair, Tiruvallur, Tamil Nadu, 600037",10:30 AM,09:30 PM,13.081563,80.165813,0928 9062 272 
+" V-Mart  Anna Nagar, Chennai"," Unit No S43, 2Nd Floor, Vr Mall, Jawaharlal Nehru Road, Anna Nagar, Chennai, Tamil Nadu, 600040",10:00 AM,10:00 PM,13.0810986,80.1953054,0928 9062 273 
+" V-Mart  Thottapalayam, Vellore"," Shop No 11, New Katpadi Road, Thottapalayam, Vellore, Tamil Nadu, 632004",10:00 AM,10:00 PM,12.93242,79.137434,0928 9062 271 
+" V-Mart  Valasaravakkam, Tiruvallur"," Shop No 1, Big Megamart, Arcot Road, Alwarthirunagar, Valasaravakkam, Tiruvallur, Tamil Nadu, 600087",11:00 AM,10:00 PM,13.044385,80.185851,0928 9062 275 
+" V-Mart  Hosur, Krishnagiri"," Shop No 751/1, Bagalur Road, Next Big Bazaar, Hosur, Krishnagiri, Tamil Nadu, 635109",10:00 AM,10:00 PM,12.7411108,77.8326345,0928 9062 276 
+" V-Mart  Pallavapuram, Chennai"," Ts No 412/7A And 412, Service Road, Esi Hospital, Pallavapuram, Chennai, Tamil Nadu, 600044",11:00 AM,10:00 PM,12.958225,80.144546,0928 9062 274 
+" V-Mart  Okkiam, Chennai"," No 339/1, 340A/1/1B1, Spectra Blk B, Old Mahabalipuram Road, Thoraipakkam, Okkiam, Chennai, Tamil Nadu, 600097",11:00 AM,10:00 PM,12.928963,80.231563,0928 9062 260 
+" V-Mart  Santhi Nagar, Krishnagiri"," Erikari Road, Bangalore Road, Santhi Nagar, Krishnagiri, Tamil Nadu, 635001",10:00 AM,10:00 PM,12.5267521,78.2136332,0880 0192 731 
+" V-Mart  Meyyanur, Salem"," Door No 180/1 To 4, Old No Sf No 58/1B/2, New Bus Stand Main Road, Opposite Arrs Multiplex Theaters, Meyyanur, Salem, Tamil Nadu, 636004",11:00 AM,10:00 PM,11.667661,78.133622,0928 9062 266 
+" Unlimited Fashion Store  Unlimited Fashion Store - Thalassery, Kannur"," Supavi Complex, Kumbakonam-Chennai National Highway, Opposite NLCIL Archgate, Neyveli, Cuddalore, Tamil Nadu, 607308",10:30 AM,09:30 PM,11.6197564,79.5496839,0880 0723 284 
+" V-Mart  Palayapalayam, Erode"," KMK Nagar, Teachers Colony, Kumalan Kuttai, Perundurai Road, Near KVB Bank, Palayapalayam, Erode, Tamil Nadu, 638011",11:00 AM,10:00 PM,11.333588,77.704435,0928 9062 293 
+" V-Mart  Sungu Pettai, Perambalur"," Trichy Main Road, Sungu Pettai, Perambalur, Tamil Nadu, 621212",10:00 AM,10:00 PM,11.234943,78.876808,0971 7966 488 
+ Unlimited Fashion Store  Unlimited Fashion Store - Thudiyalur," Mettupalayam Road, VKL Nagar, Thudiyalur, Coimbatore, Tamil Nadu, 641034",11:00 AM,10:00 PM,11.071633,76.941993,0981 0448 621 
+" V-Mart  Saravanapatti, Coimbatore"," Bearing No F19, 1St Floor, Prozone Mall, Saravanapatti, Coimbatore, Tamil Nadu, 641035",11:00 AM,10:00 PM,11.055264,76.993527,0928 9062 257 
+" V-Mart  Peelamedu, Coimbatore"," Sn 4 & 5, Sf No 474, Fun Republic Mall, Sowripalayam, Avinashi Road, Opposite Police Station, Peelamedu, Coimbatore, Tamil Nadu, 641004",11:00 AM,10:00 PM,11.024311,77.010591,0928 9062 256 
+" V-Mart  Race Course, Coimbatore"," No 733 & 734, President Hall, Gd Naidu Charities, Avanashi Road, Race Course, Coimbatore, Tamil Nadu, 641018",10:00 AM,10:00 PM,11.007267,76.9782491,0928 9062 259 
+" V-Mart  Thillai Nagar, Tiruchirappalli"," Unit No C14, Main Road, 3Road Cross, Av Arcade, Opposite Rph Hospital, Thillai Nagar, Tiruchirappalli, Tamil Nadu, 620017",11:00 AM,10:00 PM,10.8253994,78.6832609,0928 9062 263 
+" V-Mart  Ramanathapuram, Tiruchirappalli"," Plot No 1731 To 1734, Trichy Road, Ramanathapuram, Tiruchirappalli, Tamil Nadu, 620001",11:00 AM,10:00 PM,10.799081,78.686398,0928 9062 258 
+" V-Mart  Sangillyandapuram, Tiruchirappalli"," Shop No 41/2 and 41/3, Mc Donalds Road, Cantonment, Near Rc School, Sangillyandapuram, Tiruchirappalli, Tamil Nadu, 620001",10:00 AM,10:00 PM,10.799081,78.686398,0928 9062 268 
+" V-Mart  Rr Nagar, Thanjavur"," Shop No 1, Pudhukottai Main Road, Next To Bombay Street, Rr Nagar, Thanjavur, Tamil Nadu, 613005",10:00 AM,09:00 PM (Closing Soon) ,10.7486544,79.1168523,0928 9062 269 
+" V-Mart  Begambur, Dindigul"," No 38, Basement & Ground Floor, Palani Road, New Agraharam, Begambur, Dindigul, Tamil Nadu, 624001",11:00 AM,10:00 PM,10.365976,77.975899,0928 9062 262 
+" V-Mart  Ponmeni, Madurai"," Door No 81 And 81A, Room No 78/3A, Bypass Road, Next Rathna Hospital, Ponmeni, Madurai, Tamil Nadu, 625010",11:00 AM,10:00 PM,9.923671,78.093678,0928 9062 267 
+" V-Mart  Kulavanigarpuram, Tirunelveli"," Ts Ward, Au Block, Thiruvanathapuram Road, Near New Bustand, Kulavanigarpuram, Tirunelveli, Tamil Nadu, 627007",11:00 AM,10:00 PM,8.6983231,77.727248,0928 9062 265 
+" V-Mart  Weavers Colony, Nagercoil"," No 253/3, Basement, Ground & 1St Floor, Kp Road, Weavers Colony, Nagercoil, Tamil Nadu, 629001",10:00 AM,09:30 PM,8.1817369,77.4129877,0928 9062 270 
+" V-Mart  Mancherial, Adilabad"," Iqbal Ahmed Nagar, Ganga Reddy Road, Opp. Malabar Gold Shop, Mancherial, Adilabad, Telangana, 504208",10:00 AM,10:00 PM,18.875422,79.446461,0971 7528 811 
+ V-Mart  ," 3VX3+V37, Hyderabad Road, Srinivas Nagar, Opposite APGVB Bank, Siddipet, Medak, Telangana, 502103",10:00 AM,10:00 PM,18.099636,78.852715,0981 0448 620 
+" V-Mart  Kothawada, Warangal"," Shop No 15/1/28/1, Srinivasa Colony, Mgm Hospital Circle, Kothawada, Warangal, Telangana, 506002",10:30 AM,09:30 PM,17.9928609,79.5938716,0928 9062 243 
+" V-Mart  Tirumalagiri, Hyderabad"," Plot No 6/8/1, Rangareddy, Chandanagar, Tirumalagiri, Hyderabad, Telangana, 500050",11:00 AM,10:00 PM,17.4955965,78.3414687,0928 9062 251 
+" V-Mart  Tirumalagiri, Hyderabad"," Unit No 205, 2Nd Floor, The Forum Sujana Mall, Kukatpally, Tirumalagiri, Hyderabad, Telangana, 500072",11:00 AM,10:00 PM,17.484111,78.413111,0928 9062 255 
+" V-Mart  Rao Nagar, Hyderabad"," Plot No 27, Ec Ec Hsc Ltd, Kapra, Rao Nagar, Hyderabad, Telangana, 501301",11:00 AM,10:30 PM,17.4836542,78.5468779,0928 9062 254 
+" V-Mart  Kothaguda, Hyderabad"," No 111/112, Gf, Sarath City Capital Mall, Gachibowli Miyapur Road, Kothaguda, Hyderabad, Telangana, 500084",11:00 AM,10:00 PM,17.457801,78.363793,0928 9062 245 
+" V-Mart  Secunderabad, Hyderabad"," Shop No 116, Ground And 1St Floor, Park Lane Hotel, Parklane, Secunderabad, Hyderabad, Telangana, 500003",11:00 AM,10:00 PM,17.441711,78.489911,0928 9062 247 
+" V-Mart  Secunderabad, Hyderabad"," Municipal No 1/2/1/1, Main Road, Habsiguda, Secunderabad, Hyderabad, Telangana, 500007",11:00 AM,10:00 PM,17.417611,78.542711,0928 9062 250 
+" V-Mart  Musheerabad, Hyderabad"," Shop No 1/1/186/1, Main Road, Chikkadpally, Opposite Pista House, Musheerabad, Hyderabad, Telangana, 500020",11:00 AM,10:00 PM,17.4057198,78.4955305,0928 9062 249 
+" V-Mart  Rajendar Nagar, Hyderabad"," Shop No 4/3/143/3, Attapur, Opposite Pillar No 123, Rajendar Nagar, Hyderabad, Telangana, 500048",11:00 AM,10:00 PM,17.3641007,78.427935,0928 9062 253 
+" V-Mart  Santosh Nagar, Hyderabad"," Plot No A2, Green Park Nagar Colony, Karmanghat, Sagar Road, Santosh Nagar, Hyderabad, Telangana, 500079",11:00 AM,10:00 PM,17.3454196,78.5259308,0928 9062 246 
+" V-Mart  Dilsukhnagar, Hyderabad"," 1 To 4, Part 5, 10 To 11, Ntr Nagar Col, Lb Nagar Circle, Opposite Metro Pillar No 1641, Dilsukhnagar, Hyderabad, Telangana, 500060",11:00 AM,10:00 PM,17.341611,78.504711,0928 9062 248 
+" V-Mart  Malkajgiri, Hyderabad"," Shop No 197, Survey No 120, New Survey No 804, Geetanagar, Malkajgiri, Hyderabad, Telangana, 500047",11:00 AM,10:00 PM,17.275411,78.310361,0928 9062 252 
+" V-Mart  Sangyam, Warangal"," H No 1/8/592 & 593, Hanamkonda, Nakkalagutta Main Road, Opposite Apnpdcl, Sangyam, Warangal, Telangana, 506001",11:00 AM,10:00 PM,17.028911,78.302511,0928 9062 243 
+" V-Mart  Kaviraj Nagar, Khammam"," Plot No 235/1 & 258/1, Wyra Road, Survey No 94, Indra Nagar, Kaviraj Nagar, Khammam, Telangana, 507002",11:00 AM,10:00 PM,17.2489705,80.1669815,0928 9062 320 
+" Unlimited Fashion Store  Unlimited Fashion Store - Wanaparthy, Mahabubnagar"," Ramnagar Colony, Kothakota Rd, Wanaparthy, Mahabubnagar, Telangana, 509103",10:30 AM,09:00 PM (Closing Soon) ,16.3655968,78.0562448,0981 0547 083 
+" V-Mart  Dhaleswar, Agartala"," Plot No 15, Shakuntala Road, Agartala-Shakuntala Road, Near Samajpoti Market, Dhaleswar, Agartala, Tripura, 799001",10:00 AM,10:00 PM,23.831059,91.28013,0982 1399 066 
+" V-Mart  Baruakandi, North Tripura"," Station Road, Rajbari, Dharmanagar, Baruakandi, North Tripura, Tripura, 799253",11:00 AM,10:00 PM,24.373975,92.165191,0981 0890 346 
+" V-Mart  Noida, Gautam Buddha Nagar"," Raghuveer Complex, Main Dadri Road, Bhangel, Noida, Gautam Buddha Nagar, Uttar Pradesh, 201304",10:00 AM,10:00 PM,28.53891,77.38914,0846 7922 637 
+" V-Mart  Nehru Nagar, Ghaziabad"," Main Road, Gandhi Nagar, Near Snapdeal, Nehru Nagar, Ghaziabad, Uttar Pradesh, 201001",11:00 AM,10:00 PM,28.656525,77.436216,0928 9792 511 
+" V-Mart  Jattiwara, Meerut"," Satyam Palace 552, Budhana Gate, Nigar Cinema Road, Jattiwara, Meerut, Uttar Pradesh, 250002",10:00 AM,10:00 PM,28.9814074,77.7000097,0936 8356 534 
+" V-Mart  Tejgarhi, Meerut"," Khasra No, 6051, Garh Road, Opposite Tanishq Showroom, Tejgarhi, Meerut, Uttar Pradesh, 250002",10:00 AM,10:00 PM,28.9664249,77.7319766,0931 9697 765 
+" V-Mart  South Civil Lines, Muzaffarnagar"," House No 15, GT Rd, South Civil Lines, Muzaffarnagar, Uttar Pradesh, 251002",10:00 AM,10:00 PM,29.47054961,77.69670381,0936 8019 700 
+" V-Mart  South Civil Lines, Muzaffarnagar"," House No 15, Gt Road, South Civil Lines, Muzaffarnagar, Uttar Pradesh, 251002",10:00 AM,10:00 PM,29.4705398,77.6967287,0936 8019 700 
+" V-Mart  Shyam Nagar, Aligarh"," Narendra Banquet Hall, Ramghat Road, Shyam Nagar, Aligarh, Uttar Pradesh, 202001",10:00 AM,10:00 PM,27.8898629,78.0817169,0935 9758 123 
+" V-Mart  Kunwar Nagar, Aligarh"," Shop No I/4/145, Gt Road, Vaishnodham, Near Etah Chungi, Kunwar Nagar, Aligarh, Uttar Pradesh, 202002",10:00 AM,10:00 PM,27.8736699,78.0993629,0844 8858 304 
+" V-Mart  Amroha, Jyotiba Phule Nagar"," Kot Chauraha, Danishmandan, Amroha, Jyotiba Phule Nagar, Uttar Pradesh, 244221",10:00 AM,10:00 PM,28.9007261,78.4698382,0828 7830 228 
+" V-Mart  Professor Colony, Mathura"," Sn Tower, Krishna Vihar Road, Professor Colony, Mathura, Uttar Pradesh, 281001",10:00 AM,10:00 PM,27.493156,77.66852,0936 8894 723 
+" V-Mart  Nayaganj, Hathras"," Shop No 141, Shri Mukesh Ji Mall, Sikatra Walagroup, Nayaganj, Hathras, Uttar Pradesh, 204101",10:00 AM,10:00 PM,27.592931,78.053467,0935 8233 270 
+" V-Mart  Police Line, Saharanpur"," Plot No. 2, Shivaji Colony, Delhi Road, Near South City, Police Line, Saharanpur, Uttar Pradesh, 247001",10:00 AM,10:00 PM,29.941583,77.542028,0931 9697 764 
+" V-Mart  Vikas Nagar, Moradabad"," Plot No 864, Bahjoi Road, Sambhal, Near SS International School, Vikas Nagar, Moradabad, Uttar Pradesh, 202412",10:00 AM,10:00 PM,28.4608843,78.7698985,0844 8855 637 
+" V-Mart  Subhash Nagar, Saharanpur"," Uttam Hotel, Ambala Road, Subhash Nagar, Saharanpur, Uttar Pradesh, 247001",10:00 AM,10:00 PM,29.9647332,77.5452831,0931 9493 020 
+" V-Mart  Civil Lines, Moradabad"," Reti Street, Chowmukha Pul, Purani Kotwali, Civil Lines, Moradabad, Uttar Pradesh, 244001",10:00 AM,10:00 PM,28.8386472,78.7733288,0935 8846 761 
+" V-Mart  Civil Lines, Moradabad"," Reti Street, Chowmukha Pul, Purani Kotwali, Civil Lines, Moradabad, Uttar Pradesh, 244001",10:00 AM,10:00 PM,28.8386481,78.7733287,0935 8846 761 
+" V-Mart  Akbarpur, Ambedkar Nagar"," Fdra Plaza, Malipur Road, Shahzad Pur, Akbarpur, Ambedkar Nagar, Uttar Pradesh, 224122",10:00 AM,10:00 PM,28.9832763,78.9331454,0933 6330 986 
+" V-Mart  Sikandra Yojna, Agra"," C 1/13, Gemini Plaza, Sector No 13, Near HDFC Bank, Sikandra Yojna, Agra, Uttar Pradesh, 282007",10:00 AM,10:00 PM,27.2043993,77.9546203,0742 8389 500 
+" V-Mart  Kamla Nagar, Agra"," Plot No 775, Block E, Pani Tanki Road, Kamla Nagar, Kamla Nagar, Agra, Uttar Pradesh, 282005",10:00 AM,10:00 PM,27.2145802,78.0216571,0935 8980 471 
+" V-Mart  Shahganj, Agra"," No 3/67, Rui Ki Mandi Market, Shahganj, Agra, Uttar Pradesh, 282001",10:00 AM,10:00 PM,27.1757195,77.9887907,0729 0048 105 
+" V-Mart  Civil Lines, Rampur"," Ground Floor, Shaukat Ali Road, Opposite Shiv Cinema, Civil Lines, Rampur, Uttar Pradesh, 244901",10:00 AM,10:00 PM,28.7898413,79.0213417,0977 3989 145 
+" V-Mart  Saraikhwaja, Agra"," Khasra No 52, Mc No 58/293C, Vip Road, Saraikhwaja, Agra, Uttar Pradesh, 282001",10:00 AM,10:00 PM,27.162393,77.985875,0742 8661 176 
+" V-Mart  Tajganj, Agra"," Plot No 157, Shashmabad Road, Rajpura, Tajganj, Agra, Uttar Pradesh, 282003",10:00 AM,10:00 PM,27.1539534,78.0343772,0931 9255 722 
+" V-Mart  Adil Nagar, Lucknow"," Vijay Nagar, GT Road, Opposite Medical Collage, Babuganj, Etah, Uttar Pradesh, 272207",11:00 AM,10:00 PM,27.557718,78.66046,0959 9298 108 
+" V-Mart  Jogipura, Budaun"," Lakshmi Bldg Jogipura, Jogipura, Budaun, Uttar Pradesh, 243601",10:00 AM,10:00 PM,28.03328413,79.12763184,0752 0914 322 
+" V-Mart  Jogipura, Budaun"," Lakshmi Building, Gandhi Ground Road, Jogipura, Budaun, Uttar Pradesh, 243601",10:00 AM,10:00 PM,28.0332759,79.1276356,0752 0914 322 
+" V-Mart  Nai Basti, Firozabad"," Shop No 16/Da, Sn Road, Near Yes Bank, Nai Basti, Firozabad, Uttar Pradesh, 283203",10:00 AM,10:00 PM,27.1515617,78.3886578,0935 9081 611 
+" V-Mart  Manglaur, Roorkee"," City Tower, Nh 58, Opposite Roadways Bus Stand, Manglaur, Roorkee, Uttarakhand, 247656",10:00 AM,10:00 PM,29.7941454,77.8742929,0844 8599 931 
+" V-Mart  Ramnagar, Roorkee"," Ward No 18, Part 2, Ramnagar, Ramnagar, Roorkee, Uttarakhand, 247667",11:00 AM,10:00 PM,29.87255281,77.8763536,0959 9805 700 
+" V-Mart  Shivalik Nagar, Haridwar"," Plot No R/104, Sankalp Complex, Phase 3, Bhel, Phase 3, Bhel, Shivalik Nagar, Haridwar, Uttarakhand, 249403",11:00 AM,10:00 PM,29.933744,78.0766888,0966 7759 868 
+" V-Mart  Prem Nagar, Haridwar"," 400, Awas Vikas, Ranipur Mode Bypass Road, Prem Nagar, Haridwar, Uttarakhand, 249407",10:00 AM,10:00 PM,29.9346176,78.1343112,0752 0401 086 
+" V-Mart  Ranipur Mode, Haridwar"," 400, Awas Vikas, Ranipur Mode, Haridwar, Uttarakhand, 249407",10:00 AM,10:00 PM,29.9346336,78.13431225,0752 0401 086 
+" V-Mart  Sukharo, Kotdwar"," Devi Road, Sitabpur Patti, Sukharo, Pauri Garhwal, Sukharo, Kotdwar, Uttarakhand, 246149",11:00 AM,10:00 PM,29.743323,78.51104589,0813 0918 811 
+" V-Mart  Kashipur, Udham Singh Nagar"," Priya Mall, Railway Crossing, Bajpur Road, Near Maharana Pratap Chowk, Kashipur, Udham Singh Nagar, Uttarakhand, 244713",10:00 AM,10:00 PM,29.211397,78.961885,0935 8855 677 
+" V-Mart  Mayakund, Rishikesh"," Ground Floor, Rishikesh Haridwar Road, Opposite Icici Bank, Mayakund, Rishikesh, Uttarakhand, 249201",10:00 AM,10:00 PM,30.108024,78.300875,0982 1189 475 
+" V-Mart  Niranjanpur, Dehradun"," Walia Compound, Saharanpur Road, Majra, Near Royal Enfield Showroom, Niranjanpur, Dehradun, Uttarakhand, 248001",10:00 AM,10:00 PM,30.3049837,78.0127213,0844 8382 153 
+" V-Mart  Dharampur, Dehradun"," Dehradun Haridwar Road, Ajabpur Kalan, Near Vidhan Sabha Chowk, Dharampur, Dehradun, Uttarakhand, 248001",11:00 AM,10:00 PM,30.29398075,78.05835493,0959 9806 006 
+" V-Mart  Chakrata, Dehradun"," No 03/02, Chakarta Road, Kishan Nagar Chowk, Chakrata, Dehradun, Uttarakhand, 248001",10:00 AM,10:00 PM,30.329948,78.029991,0936 8214 722 
+" V-Mart  Kishan Nagar Chowk, Dehradun"," Shop No 03/02, Chakarta Road, Kishan Nagar Chowk, Kishan Nagar Chowk, Dehradun, Uttarakhand, 248001",10:00 AM,10:00 PM,30.33348323,78.02556904,0936 8214 722 
+" V-Mart  Dalanwala, Dehradun"," Ground Floor, Raipur Road, Near Servey Chowk, Dalanwala, Dehradun, Uttarakhand, 248001",10:00 AM,10:00 PM,30.324251,78.057111,0844 8982 288 
+" V-Mart  Vikasnagar, Dehradun"," Main Road, Purani Bazar, Rasoolpur, Adjacent Smile Store, Vikasnagar, Dehradun, Uttarakhand, 248198",11:00 AM,10:00 PM,30.4743345,77.781702,0981 0847 660 
+" V-Mart  Kichha, Udham Singh Nagar"," 16/2, Divine Tower, Civil Lines, Kichha, Udham Singh Nagar, Uttarakhand, 263153",10:00 AM,10:00 PM,28.9812848,79.3987042,0935 9865 304 
+" V-Mart  Haldwani, Nainital"," Kaladhungi Road, Heera Nagar, Haldwani, Nainital, Uttarakhand, 263139",10:00 AM,10:00 PM,29.2174651,79.5207781,0936 8165 995 
+" V-Mart  Munsifdanga, Purulia"," Ground Floor, Deshbandhu Road, Near Idbi Bank, Munsifdanga, Purulia, West Bengal, 723101",10:00 AM,10:00 PM,23.3430356,86.3651836,0966 7300 374 
+" V-Mart  Raiganj, North Dinajpur"," Ground Floor, Mg Road, Near Mp Jewellers, Raiganj, Opposite Public Bus Stand, Raiganj, North Dinajpur, West Bengal, 733134",10:00 AM,10:00 PM,25.6179434,88.125411,0742 8264 729 
+" V-Mart  Dhuliyan, Murshidabad"," Plot No 430, Kanchantala, Samsherganj, Dhuliyan, Murshidabad, West Bengal, 742202",10:00 AM,10:00 PM,24.6764258,87.9510541,0729 0036 203 
+" V-Mart  Nutan Pura, Jalpaiguri"," Kadam Dala Mod, Dbc Road, Nutan Pura, Jalpaiguri, West Bengal, 735101",10:00 AM,10:00 PM,26.5243459,88.7195147,0902 4110 007 
+" V-Mart  Berhampore, Murshidabad"," Plot No 51 B, B Sen Road, Berhampore, Murshidabad, West Bengal, 742101",10:00 AM,10:00 PM,24.106891,88.250352,0813 0419 907 
+" V-Mart  Perbirhata, Burdwan"," Birhata, Sripally, GT Road, Opposite Andhra bank, Perbirhata, Burdwan, West Bengal, 713103",11:00 AM,10:00 PM,23.231975,87.8639011,0888 2372 096 
+" V-Mart  Galsi - I, Bardhaman"," Birhata, Gt Road, Galsi - I, Bardhaman, West Bengal, 713103",10:00 AM,10:00 PM,23.2319728,87.8639011,0933 2936 235 
+" V-Mart  Kharagpur, West Midnapore"," Ward No 16 Malancha Road, School, Opposite Atulmoni Polytechnic High, Kharagpur, West Midnapore, West Bengal, 721301",10:00 AM,10:00 PM,22.3445083,87.2923888,0729 0036 208 
+" V-Mart  Khagrabari, Cooch Behar"," No 122, Keshab Road, Khagrabari, Cooch Behar, West Bengal, 736101",10:00 AM,10:00 PM,26.331186,89.446093,0933 3759 291 
+" V-Mart  Arambag, Hooghly"," Plot No 1010,1032 And 1046, Paschim Krishnapur, Arambag, Hooghly, West Bengal, 712601",10:00 AM,10:00 PM,22.882647,87.78882,0813 0420 323 
+" V-Mart  Krishna Nagar, Nadia"," Plot No 20, Dl Roy Road, Pallysree Krishna Nagar, Krishna Nagar, Nadia, West Bengal, 741101",10:00 AM,10:00 PM,23.396925,88.491187,0844 8480 722 
+" V-Mart  Santipur, Nadia"," 9/1, Rn Tagore Road, Shantipur, Opposite Bhadrakalitala, Santipur, Nadia, West Bengal, 741404",10:00 AM,10:00 PM,23.258225,88.43637,0813 0420 073 
+" V-Mart  Tamluk, East Midnapore"," Mechada Road, Purba Medinipur, Maniktala, Opposite Sp Office, Tamluk, East Midnapore, West Bengal, 721636",10:00 AM,10:00 PM,22.3027028,87.9113006,0931 9697 761 
+" V-Mart  Bandel, Hooghly"," Plot No 15 And 24, Gt Road, Bandel, Hooghly, West Bengal, 712123",10:00 AM,10:00 PM,22.921005,88.385433,0931 9697 760 
+" V-Mart  Dhekiajuli, Sonitpur"," Heaven Garden, Indra Gandhi Road, Konnagar, Hooghly, West Bengal, 712235",11:00 AM,10:00 PM,22.701993,88.345146,0959 9298 109 
+" V-Mart  Uttarpara, Hooghly"," Bandhan Banquet, Hindmotor, Gt Road, Ghospara, Uttarpara, Hooghly, West Bengal, 712233",10:00 AM,10:00 PM,22.683027,88.347774,0704 2989 922 
+" V-Mart  Ghospara, Uttarpara"," Bandhan Banquet, Hindmotor, GT Road, Ghospara, Ghospara, Uttarpara, West Bengal, 712233",10:00 AM,10:00 PM,22.68388641,88.35408593,0704 2989 922 
+" V-Mart  Esplanade, Kolkata"," Shop No 7, Metropolitan Building, Jawahar Lal Nehru Road, Near Esplanade Bus Stand, Esplanade, Kolkata, West Bengal, 700013",11:00 AM,10:00 PM,22.5635491,88.3519135,0956 0622 886 
+" V-Mart  Sethpukhar, Barasat"," 65/6, Jessore Road N, Sethpukhar, Sethpukhar, Barasat, West Bengal, 700124",10:00 AM,10:00 PM,22.715939,88.483142,0742 8495 283 
+" V-Mart  Buddha Vihar, Gorakhpur"," Amtala Bazar, Nibarandutta Road, Borhanpur village, Amtala, Kolkata, West Bengal, 743503",11:00 AM,10:00 PM,22.368993,88.27055,0966 7300 374 
